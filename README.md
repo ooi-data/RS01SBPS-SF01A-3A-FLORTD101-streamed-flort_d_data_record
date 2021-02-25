@@ -1,3 +1,5 @@
-# Stream Template Repository
+# RS01SBPS-SF01A-3A-FLORTD101-streamed-flort_d_data_record
 
-This repository is a template for all the other repositories.
+Stream Type: Science<br>
+Stream Content: Data Products<br>
+Instrument Group Code: FL<br>
