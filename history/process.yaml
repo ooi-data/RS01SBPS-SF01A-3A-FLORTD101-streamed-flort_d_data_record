@@ -1,0 +1,6 @@
+data_location: s3://ooi-data/RS01SBPS-SF01A-3A-FLORTD101-streamed-flort_d_data_record
+data_stream: RS01SBPS-SF01A-3A-FLORTD101-streamed-flort_d_data_record
+end_date: '2021-02-25T00:47:39.975Z'
+last_updated: '2021-02-26T05:25:16.954685Z'
+start_date: '2014-10-06T14:10:13.000Z'
+status: pending
